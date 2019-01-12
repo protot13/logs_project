@@ -1,0 +1,6 @@
+[('Candidate is jerk, alleges rival', 338647L), ('Bears love berries, alleges bear', 253801L), ('Bad things gone, say good people', 170098L)]
+######
+[('Ursula La Multa', 507594L), ('Rudolf von Treppenwitz', 423457L), ('Anonymous Contributor', 170098L)]
+######
+[(datetime.datetime(2016, 7, 17, 0, 0, tzinfo=psycopg2.tz.FixedOffsetTimezone(offset=0, name=None)), Decimal('0.023'))]
+######
